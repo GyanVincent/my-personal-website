@@ -1,0 +1,13 @@
+# VinTechAI — Vincent Gyan
+
+> Personal brand site for Vincent Gyan: AI engineer & full-stack developer building intelligent software from Sunyani, Ghana.
+
+## Pages
+- [Home](/): hero, services overview, testimonials, CTA
+- [About](/about): bio, skills, certifications
+- [Services](/services): web, mobile, AI agents, automation, prompts, APIs, consulting
+- [Portfolio](/portfolio): selected projects
+- [Testimonials](/testimonials): client reviews
+- [Blog](/blog): writing on AI, software, mobile, prompts
+- [Ask Vincent AI](/ask-vincent): AI assistant about Vincent's work
+- [Contact](/contact): email, WhatsApp, contact form
